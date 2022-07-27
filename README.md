@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Max Baldizon @baldizondev
+- 👋 Hi, I’m Max Baldizon @1baldizon
 - 👀 I’m interested in Javascript, Python, c/c++ 
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on open source project
